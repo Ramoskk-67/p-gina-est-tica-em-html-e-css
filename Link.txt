@@ -1,1 +1,1 @@
-https://meu-curriculo-estatico.s3.sa-east-1.amazonaws.com/Site+Html/Meu_site.html
+https://curriculo-estatico.s3.sa-east-1.amazonaws.com/Site_estatico/Site_estatico/p-gina-est-tica-em-html-e-css/Meu_site.html
